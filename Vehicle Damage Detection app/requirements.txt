@@ -1,0 +1,11 @@
+# Core
+streamlit>=1.32.0
+numpy>=1.24.0
+pillow>=10.0.0
+
+# Computer Vision
+opencv-python-headless>=4.8.0
+onnxruntime>=1.16.0  # Use onnxruntime-gpu for CUDA support
+
+# Optional: For CSV export in reports
+pandas>=2.0.0

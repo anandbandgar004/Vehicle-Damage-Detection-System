@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "total_images": 3,
+    "total_damages": 0,
+    "severity_distribution": {
+      "low": 0,
+      "medium": 0,
+      "high": 0
+    },
+    "timestamp": "2025-12-03T14:01:44.892370"
+  },
+  "damage_breakdown": {},
+  "detailed_results": {
+    "sample_vehicles\\vehicle_1.jpg": [],
+    "sample_vehicles\\vehicle_2.jpg": [],
+    "sample_vehicles\\vehicle_3.jpg": []
+  },
+  "recommendations": []
+}

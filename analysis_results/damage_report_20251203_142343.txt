@@ -1,0 +1,22 @@
+============================================================
+VEHICLE DAMAGE ASSESSMENT REPORT
+============================================================
+
+Report Date: 2025-12-03 14:23:43
+Total Images Analyzed: 3
+Images with Damage: 0
+Total Damages Detected: 0
+Overall Severity: low
+Estimated Repair Cost: $0.00
+
+DAMAGE BREAKDOWN:
+----------------------------------------
+No damages detected
+
+By Severity:
+  low: 0
+  medium: 0
+  high: 0
+
+RECOMMENDATIONS:
+----------------------------------------

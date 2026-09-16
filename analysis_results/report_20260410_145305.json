@@ -1,0 +1,124 @@
+{
+  "timestamp": "20260410_145305",
+  "results": [
+    {
+      "image": "000018.jpg",
+      "detections": [
+        {
+          "class_name": "scratch",
+          "confidence": 0.9072363972663879,
+          "severity": "high",
+          "severity_score": 0.6358934640884399,
+          "location": "middle-center",
+          "bbox": [
+            626.1483154296875,
+            271.19189453125,
+            679.9544677734375,
+            305.40533447265625
+          ]
+        },
+        {
+          "class_name": "scratch",
+          "confidence": 0.8898702263832092,
+          "severity": "high",
+          "severity_score": 0.6372209191322327,
+          "location": "middle-center",
+          "bbox": [
+            180.87315368652344,
+            285.6230773925781,
+            602.1798095703125,
+            361.1493225097656
+          ]
+        },
+        {
+          "class_name": "scratch",
+          "confidence": 0.7821054458618164,
+          "severity": "medium",
+          "severity_score": 0.5489974021911621,
+          "location": "middle-right",
+          "bbox": [
+            624.8138427734375,
+            212.15367126464844,
+            717.8297119140625,
+            248.57192993164062
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000019.jpg",
+      "detections": [
+        {
+          "class_name": "scratch",
+          "confidence": 0.9028229117393494,
+          "severity": "high",
+          "severity_score": 0.708232045173645,
+          "location": "middle-center",
+          "bbox": [
+            322.5613708496094,
+            152.95965576171875,
+            748.163330078125,
+            538.1799926757812
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000021.jpg",
+      "detections": [
+        {
+          "class_name": "scratch",
+          "confidence": 0.8473039865493774,
+          "severity": "high",
+          "severity_score": 0.6021223068237305,
+          "location": "middle-center",
+          "bbox": [
+            295.2901306152344,
+            214.13064575195312,
+            467.564697265625,
+            330.40576171875
+          ]
+        },
+        {
+          "class_name": "scratch",
+          "confidence": 0.6678963899612427,
+          "severity": "medium",
+          "severity_score": 0.4857567250728607,
+          "location": "bottom-center",
+          "bbox": [
+            274.64715576171875,
+            427.3085632324219,
+            514.877197265625,
+            596.0206298828125
+          ]
+        },
+        {
+          "class_name": "scratch",
+          "confidence": 0.429210901260376,
+          "severity": "medium",
+          "severity_score": 0.30202770233154297,
+          "location": "middle-center",
+          "bbox": [
+            340.8099365234375,
+            428.2657775878906,
+            489.2115783691406,
+            451.9380798339844
+          ]
+        },
+        {
+          "class_name": "scratch",
+          "confidence": 0.2943986654281616,
+          "severity": "low",
+          "severity_score": 0.20814542472362518,
+          "location": "middle-center",
+          "bbox": [
+            281.7002868652344,
+            427.9479675292969,
+            491.0452880859375,
+            449.8935241699219
+          ]
+        }
+      ]
+    }
+  ]
+}

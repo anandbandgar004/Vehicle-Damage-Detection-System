@@ -1,0 +1,24 @@
+{
+  "summary": {
+    "analysis_date": "2026-04-02 15:33:20",
+    "total_images_analyzed": 3,
+    "images_with_damage": 0,
+    "total_damages_detected": 0,
+    "overall_severity": "low",
+    "average_severity_score": 0.0,
+    "estimated_repair_cost": 0.0
+  },
+  "damage_statistics": {
+    "by_type": {},
+    "by_severity": {
+      "low": 0,
+      "medium": 0,
+      "high": 0
+    },
+    "by_location": {}
+  },
+  "detailed_results": {},
+  "recommendations": [
+    "No damages detected - vehicle is in good condition!"
+  ]
+}

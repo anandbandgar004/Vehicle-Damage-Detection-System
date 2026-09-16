@@ -1,0 +1,12 @@
+names:
+- dent
+- scratch
+- crack
+- glass_shatter
+- lamp_broken
+- tire_flat
+nc: 6
+path: /kaggle/input/cardd-with-yolo-annotations-images-labels
+test: test/images
+train: train/images
+val: val/images
